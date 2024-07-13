@@ -1,3 +1,3 @@
 <a>
-    <img height="400px" src="https://solididbucket.s3.amazonaws.com/HNG+Boilerplate.png" alt="Jenkins logo"> 
+    <img height="600px" src="https://solididbucket.s3.amazonaws.com/HNG+Boilerplate.png" alt="Jenkins logo"> 
 </a>
